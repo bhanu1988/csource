@@ -3,6 +3,5 @@
 void main()
 {
 prime();
-palin();
 fiba();
 }

@@ -1,5 +1,5 @@
 #include <stdio.h>
-void prime {
+void prime() {
     int n, i, flag = 0;
     printf("Enter a positive integer: ");
     scanf("%d", &n);
@@ -23,5 +23,4 @@ void prime {
             printf("%d is not a prime number.", n);
     }
 
-  
 }
